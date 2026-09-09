@@ -1,5 +1,5 @@
-#include "api/arduino.h"
-#include "api/lcd.h"
+#include "arduino.h"
+#include "lcd.h"
 #include "serial.h"
 #include <stdio.h>
 
